@@ -15,7 +15,7 @@
 	 * All API Resources are Available for chainging.
 	 */
 
-	require_once('vendors/com.rapiddigitalllc/xively/api.php');
+	require_once('src/com.rapiddigitalllc/xively/api.php');
 	
 	$xi = \Xively\Api::forge();
 	//$xi = \Xively\Api::forge('your api key');
