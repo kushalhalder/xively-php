@@ -1,0 +1,7 @@
+{
+    "name": "kushalhalder/xively-php",
+    "description": "Forked from xively/xively-php",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
